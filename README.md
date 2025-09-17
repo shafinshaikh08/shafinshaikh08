@@ -19,7 +19,7 @@ const shafin = {
     location: "Gujarat, India",
     currentFocus: ["Full-Stack Development", "AI/ML Integration"],
     workingOn: "AI-powered learning platforms and web solutions",
-    askMeAbout: ["React", "Node.js", "MongoDB", "AI/ML", "System Design"]
+    askMeAbout: ["React", "Node.js", "MongoDB", "AI/ML"]
 };
 ```
 
