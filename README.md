@@ -2,7 +2,6 @@
 
 # Hi there, I'm Md. Shafin Shaikh 👋
 
-### Full-Stack Developer | AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3F7EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
