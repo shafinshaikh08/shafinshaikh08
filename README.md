@@ -67,10 +67,6 @@ const shafin = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafinshaikh08&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafinshaikh08&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
